@@ -40,4 +40,4 @@ I help SMEs optimize their IT budgets (targeting ~40% reduction) and modernize l
 
 ---
 
-📫 **Connect with me:** [[Link to LinkedIn or Website]](https://www.linkedin.com/in/jaco-van-rijswijk-aa79a825/)
+📫 **Connect with me:** [[LinkedIn]](https://www.linkedin.com/in/jaco-van-rijswijk-aa79a825/)
