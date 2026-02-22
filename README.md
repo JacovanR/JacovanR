@@ -35,8 +35,8 @@ I help SMEs optimize their IT budgets (targeting ~40% reduction) and modernize l
 ---
 
 ## 📊 GitHub Stats
-![Jaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Jaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacovanR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacovanR&layout=compact&theme=tokyonight)
 
 ---
 
